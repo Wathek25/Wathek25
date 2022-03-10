@@ -1,4 +1,4 @@
-<a href="#" class="devi" ><img  width="300px"   src="https://ephraimbokuma.com/wp-content/uploads/2021/04/banner-image.png" height="300px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Wathek</h1>
 <h3 align="center">I'm a passionate about Technologies.</h3>
@@ -73,11 +73,3 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a> -->
-
-<style>
-    .devi {
-        display: flex;
-        justify-Content : center;
-
-    }
-</style>
