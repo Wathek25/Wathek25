@@ -36,21 +36,7 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Wathek25/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Wathek Ghenimi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Wathek25&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/Wathek25/github-readme-stats"><img alt="Wathek Ghenimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Wathek25&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Wathek25/github-readme-stats"><img alt="Wathek Ghenimi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wathek25&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-
-<br/>
-<br/>
 
 <!-- <a href="https://github.com/Wathek25/github-readme-activity-graph"><img alt="Wathek GHenimi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Wathek25&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
@@ -58,7 +44,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/wathek-ghenimi-14b588172/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/wathek-ghenimi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.instagram.com/wathekghenimi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.behance.net/wathekghen7a63"><img src="https://img.icons8.com/color/50/000000/behance.png"/></a>
 
