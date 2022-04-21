@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://wathek-portfolio.herokuapp.com/)**
 
-- 📫 How to reach me **wathek.ghenimi1@gmail.com**
+- 📫 How to reach me **wathek.ghenimi1@gmail.com** || **+(216) 54 427 262**
 
 - ⚡ Fun facts : i like photography **[Instagram](https://www.instagram.com/wathekghenimi/)**
 
@@ -34,7 +34,7 @@
     
 </p>
 
-<br/>
+
 
 
 
